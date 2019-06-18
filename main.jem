@@ -1,0 +1,47 @@
+# jemdoc: nofooter  
+==Jon Schneider 
+
+Google Research New York \n
+111 8th Ave, New York, NY 10011 \n
+[jschnei@google.com] \n
+[http://theory.cs.princeton.edu/PeopleImages/jon-schneider.jpg Photo]
+
+== About me
+Hello! I recently obtained my PhD in Computer Science from Princeton University under the supervision of Prof. Mark Braverman. I now work at Google Research New York City in the [https://ai.google/research/teams/algorithms-optimization/ Algorithms and Optimization group]. At a broad level, I am interested in problems in the overlap of algorithms, game theory, and learning. More specifically, my research interests include bandit algorithms, online learning, and algorithmic mechanism design. 
+
+== Publications  
+- *[https://arxiv.org/abs/1706.09060 Multi-armed bandit problems with strategic arms]* \n
+with Mark Braverman, Jieming Mao, and Matthew Weinberg. COLT 2019.
+- *[https://arxiv.org/abs/1710.02898 The space complexity of mirror games]* \n
+with Sumegha Garg. ITCS 2019.
+- *[https://papers.nips.cc/paper/7807-contextual-pricing-for-lipschitz-buyers Contextual pricing for Lipschitz buyers]* \n
+with Jieming Mao and Renato Paes Leme. NeurIPS 2018.
+- *[https://arxiv.org/abs/1804.03195 Contextual search via intrinsic volumes]* \n
+with Renato Paes Leme. FOCS 2018.
+- *[https://arxiv.org/abs/1711.09176 Selling to a no regret buyer]* \n
+with Mark Braverman, Jieming Mao, and Matthew Weinberg. EC 2018. \n
+*Best Full Paper* and *Best Paper with a Student Lead Author*
+- *[https://arxiv.org/abs/1605.03933 Competitive analysis of the top-K ranking problem]* \n
+with Xi Chen, Sivakanth Gopi, and Jieming Mao. SODA 2018.
+- *[https://arxiv.org/abs/1605.09733 Condorcet-consistent and approximately strategyproof tournament rules]* \n
+with Ariel Schvartzman and Matthew Weinberg. ITCS 2018.
+- *[https://arxiv.org/abs/1508.05372 Tight space-noise tradeoffs in computing the ergodic measure]* \n
+with Mark Braverman and Cristobal Rojas. /Sbornik: Mathematics/ 208.12 (2017): 1758.
+- *[https://arxiv.org/abs/1502.02971 Information complexity is computable]* \n
+with Mark Braverman. ICALP 2016.
+- *[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701 Space-bounded Church-Turing thesis and computational tractability of closed systems]* \n
+with Mark Braverman and Cristobal Rojas. Physical Review Letters 115 (9), 2015.
+- *[https://www.combinatorics.org/ojs/index.php/eljc/article/download/v21i1p43/pdf/ Polynomial sequences of binomial-type arising in graph theory]* \n
+/Electronic Journal of Combinatorics/, 21 (1), 2014.
+
+=== Working papers
+
+- *Strategizing against no-regret learners* \n
+with Yuan Deng and Balasubramanian Sivan.
+- *Contextual bandits with cross-learning* \n
+with Santiago Balseiro, Negin Golrezaei, Mohammad Mahdian, Vahab Mirrokni.
+- *Optimization with Threshold Queries* \n
+with Ehsan Emamjomeh-Zadeh, Renato Paes Leme, and Balasubramanian Sivan.
+- *Prior-free dynamic auctions with low-regret buyers* \n
+with Yuan Deng and Balasubramanian Sivan.
+
