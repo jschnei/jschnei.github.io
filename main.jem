@@ -10,6 +10,16 @@ Google Research New York \n
 Hello! I recently obtained my PhD in Computer Science from Princeton University under the supervision of Prof. Mark Braverman. I now work at Google Research New York City in the [https://ai.google/research/teams/algorithms-optimization/ Algorithms and Optimization group]. At a broad level, I am interested in problems in the overlap of algorithms, game theory, and learning. More specifically, my research interests include bandit algorithms, online learning, and algorithmic mechanism design. 
 
 == Publications  
+- *Myersonian Regression* \n
+with Allen Liu and Renato Paes Leme. NeurIPS 2021. 
+- *[http://proceedings.mlr.press/v125/paes-leme20a.html Costly Zero-Order Oracles]* \n
+with Renato Paes Leme. COLT 2020.
+- *[https://arxiv.org/abs/1909.13861 Strategizing against no-regret learners]* \n
+with Yuan Deng and Balasubramanian Sivan. NeurIPS 2019 (Oral).
+- *[https://papers.nips.cc/paper/8727-prior-free-dynamic-auctions-with-low-regret-buyers.pdf Prior-free dynamic auctions with low-regret buyers]* \n
+with Yuan Deng and Balasubramanian Sivan. NeurIPS 2019.
+- *[https://arxiv.org/abs/1809.09582 Contextual bandits with cross-learning]* \n
+with Santiago Balseiro, Negin Golrezaei, Mohammad Mahdian, Vahab Mirrokni. NeurIPS 2019.
 - *[https://arxiv.org/abs/1706.09060 Multi-armed bandit problems with strategic arms]* \n
 with Mark Braverman, Jieming Mao, and Matthew Weinberg. COLT 2019.
 - *[https://arxiv.org/abs/1710.02898 The space complexity of mirror games]* \n
@@ -36,12 +46,13 @@ with Mark Braverman and Cristobal Rojas. Physical Review Letters 115 (9), 2015.
 
 === Working papers
 
-- *Strategizing against no-regret learners* \n
-with Yuan Deng and Balasubramanian Sivan.
-- *Contextual bandits with cross-learning* \n
-with Santiago Balseiro, Negin Golrezaei, Mohammad Mahdian, Vahab Mirrokni.
-- *Optimization with Threshold Queries* \n
-with Ehsan Emamjomeh-Zadeh, Renato Paes Leme, and Balasubramanian Sivan.
-- *Prior-free dynamic auctions with low-regret buyers* \n
-with Yuan Deng and Balasubramanian Sivan.
-
+- *[https://arxiv.org/abs/2003.01703 Optimal Contextual Pricing and Extensions]* \n
+with Allen Liu and Renato Paes Leme.
+- *[https://arxiv.org/abs/2004.10163 Competing Optimally Against An Imperfect Prophet]* \n
+with Allen Liu and Renato Paes Leme.
+- *[https://arxiv.org/abs/2006.06519 Reserve Price Optimization for First Price Auctions]* \n
+with Zhe Feng, Sebastien Lahaie, and Jinchao Ye.
+- *Contracts under Moral Hazard and Adverse Selection* \n
+with Guru Guruganesh and Joshua Wang.
+- *Prior-free Dynamic Mechanism Design With Limited Liability* \n
+with Mark Braverman and Matthew Weinberg.
