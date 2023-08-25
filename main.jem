@@ -7,9 +7,35 @@ Google Research New York \n
 [https://jschnei.github.io/jon-schneider.jpg Photo]
 
 == About me
-Hello! I recently obtained my PhD in Computer Science from Princeton University under the supervision of Prof. Mark Braverman. I now work at Google Research New York City in the [https://ai.google/research/teams/algorithms-optimization/ Algorithms and Optimization group]. At a broad level, I am interested in problems in the overlap of algorithms, game theory, and learning. More specifically, my research interests include bandit algorithms, online learning, and algorithmic mechanism design. 
+Hello! I am a research scientist at Google Research NYC in the [https://ai.google/research/teams/algorithms-optimization/ Algorithms and Optimization group]. Before this, I completed my PhD in Computer Science at Princeton University under the supervision of Prof. Mark Braverman. 
+
+My current research interests include online learning, game theory, contract design, and convex geometry/optimization. I am especially interested in questions in the overlap between game theory and online learning: what learning algorithms should you play in repeated games? What is your best response if you know your opponent is running (a specific class of) learning algorithm?
 
 == Publications
+- *[https://proceedings.mlr.press/v202/duetting23b.html Optimal No-Regret Learning for One-Sided Lipschitz Functions]*\n
+with Paul Duetting, Guru Guruganesh, and Joshua Wang. ICML 2023. 
+- *[https://arxiv.org/abs/2307.00168 U-Calibration: Forecasting for an Unknown Agent]*\n 
+with Robert Kleinberg, Renato Paes Leme, and Yifeng Teng. COLT 2023.
+- *[https://arxiv.org/abs/2306.12667 The Power of Menus in Contract Design]*\n
+with Guru Guruganesh, Joshua Wang, and Junyao Zhao. EC 2023.
+- *[https://arxiv.org/abs/2207.08965 Bernoulli Factories for Flow-Based Polytopes]*\n
+with Rad Niazadeh and Renato Paes Leme. SIAM Journal on Discrete Mathematics (SIDMA). 
+- *[https://dl.acm.org/doi/fullHtml/10.1145/3543507.3583478 Eligibility Mechanisms: Auctions Meet Information Retrieval]*\n
+with Gagan Goel, Renato Paes Leme, David Thompson, and Hanrui Zhang. WWW 2023. 
+- *[https://arxiv.org/abs/2202.07216 Multiparameter Bernoulli Factories]*\n
+with Renato Paes Leme. Annals of Applied Probability.
+- *[https://arxiv.org/abs/2302.01517 Pseudonorm Approachability and Applications to Regret Minimization]*\n
+with Christoph Dann, Yishay Mansour, Mehryar Mohri, and Balasubramanian Sivan. ALT 2023.
+- *[https://arxiv.org/abs/2210.12198 Anonymous Bandits for Multi-User Systems]*\n
+with Hossein Esfandiari and Vahab Mirrokni. NeurIPS 2022.
+- *[https://arxiv.org/abs/2205.08562 Strategizing against Learners in Bayesian Games]*\n
+with Yishay Mansour, Mehryar Mohri, and Balasubramanian Sivan. COLT 2022.
+- *[https://arxiv.org/abs/2206.07528 Corruption-Robust Contextual Search through Density Updates]*\n
+with Renato Paes Leme and Chara Podimata. COLT 2022.
+- *[https://arxiv.org/abs/2106.04819 Contextual Recommendations and Low-Regret Cutting-Plane Algorithms]* \n
+with Sreenivas Gollapudi, Guru Guruganesh, Kostas Kollias, Pasin Manurangsi, and Renato Paes Leme. NeurIPS 2021.
+- *[https://arxiv.org/abs/2111.08057 Margin-Independent Online Multiclass Learning via Convex Geometry]*\n
+with Guru Guruganesh, Allen Liu, and Joshua Wang. NeurIPS 2021.
 - *[https://arxiv.org/abs/2004.10163 Competing Optimally Against An Imperfect Prophet]* \n
 with Allen Liu, Renato Paes Leme, Martin Pal, and Balasubramanian Sivan. EC 2021.
 - *[https://arxiv.org/abs/2010.06742 Contracts under Moral Hazard and Adverse Selection]* \n
@@ -19,10 +45,10 @@ with Mark Braverman and Matthew Weinberg. EC 2021.
 - *[https://arxiv.org/abs/2009.05138 Learning Product Rankings Robust to Fake Users]* \n
 with Negin Golrezaei, Vahideh Manshadi, and Shreyas Sekar. EC 2021.
 - *[https://arxiv.org/abs/2011.03865 Combinatorial Bernoulli Factories: Matchings, Flows and Other Polytopes]* \n
-with Rad Niazadeh and Renato Paes Leme
+with Rad Niazadeh and Renato Paes Leme. FOCS 2021.
 - *[https://arxiv.org/abs/2006.06519 Reserve Price Optimization for First Price Auctions]* \n
 with Zhe Feng, Sebastien Lahaie, and Jinchao Ye. ICML 2021.
-- *Jointly Learning Prices and Product Features* \n
+- *[https://www.ijcai.org/proceedings/2021/325 Jointly Learning Prices and Product Features]* \n
 with Ehsan Emamjomeh-Zadeh, Renato Paes Leme, and Balasubramanian Sivan. IJCAI 2021.
 - *[https://arxiv.org/abs/2003.01703 Optimal Contextual Pricing and Extensions]* \n
 with Allen Liu and Renato Paes Leme. SODA 2021.
@@ -62,7 +88,11 @@ with Mark Braverman and Cristobal Rojas. Physical Review Letters 115 (9), 2015.
 
 === Working papers
 
-- *[https://arxiv.org/abs/2106.04819 Contextual Recommendations and Low-Regret Cutting-Plane Algorithms]* \n
-with Sreenivas Gollapudi, Guru Guruganesh, Kostas Kollias, Pasin Manurangsi, and Renato Paes Leme.
-- *Margin-Independent Online Multiclass Learning via Convex Geometry*\n
-with Guru Guruganesh, Allen Liu, and Joshua Wang.
+- *[https://arxiv.org/abs/2305.19496 Is Learning in Games Good for the Learners?]*\n
+with William Brown and Kiran Vodrahalli.
+- *[https://arxiv.org/abs/2307.11967 Nonbossy Mechanisms: Mechanism Design Robust to Secondary Goals]*\n
+with Renato Paes Leme and Hanrui Zhang.
+- *[https://arxiv.org/abs/2307.08827 Bayesian Conversations]*\n
+with Renato Paes Leme and Shuran Zhang.
+- *[https://arxiv.org/abs/2307.08827 History-Restricted Online Learning]*\n
+with Kiran Vodrahalli.
